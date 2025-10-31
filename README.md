@@ -95,8 +95,7 @@
 
 ## Badges
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/725a167a-4a69-4e9a-90e9-3808f9b28a4f/public_url"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/68a0d495-aeda-41af-a468-d088665aac5b" /></a>
 
 ## GitHub Profile Trophy
 
