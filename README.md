@@ -93,6 +93,11 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
+## Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## GitHub Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
