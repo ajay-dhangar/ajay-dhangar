@@ -1,6 +1,10 @@
+<!--
 [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
+-->
 
- <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+<a href="https://holopin.io/@ajaydhangar"><img src="https://holopin.me/ajaydhangar" alt="An image of @ajaydhangar's Holopin badges" /></a>
+
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%AA%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B8%E0%A5%83%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A5%A4%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5+%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%83+%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A4%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%82+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A5%A4" lt="sloka" />
 
