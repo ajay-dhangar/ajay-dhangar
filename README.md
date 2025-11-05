@@ -2,7 +2,7 @@
 [![An image of @ajaydhangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajaydhangar)](https://holopin.io/@ajaydhangar)
 -->
 
-<a href="https://holopin.io/@ajaydhangar"><img src="https://holopin.me/ajaydhangar" alt="An image of @ajaydhangar's Holopin badges" /></a>
+<a href="https://holopin.io/@ajaydhangar"><img src="https://github.com/user-attachments/assets/8177f7ec-5d77-4be9-a8a7-e003465a6c14" alt="An image of @ajaydhangar's Holopin badges" /></a>
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
