@@ -114,7 +114,7 @@
 ![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajay-dhangar&theme=highcontrast)](https://github.com/ajay-dhangar)
+![GitHub Streak](https://streak-stats.demolab.com?user=ajay-dhangar&theme=highcontrast)
 <a href="https://leetcode.com/ajaydhangar49/"><img width="48%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     
 
