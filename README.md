@@ -101,9 +101,9 @@
 
 <a href="https://www.credly.com/badges/725a167a-4a69-4e9a-90e9-3808f9b28a4f/public_url"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/68a0d495-aeda-41af-a468-d088665aac5b" /></a> <a href="https://badges.parchment.com/public/assertions/4PXYhbHSSq2nFIECCmg6bQ?identity__email=ajaydhangar49%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/4PXYhbHSSq2nFIECCmg6bQ/image"></a>
 
-## GitHub Profile Trophy
+## 🏆GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ajay-dhangar&column=10&theme=matrix)
+![](https://github-trophies.vercel.app/?username=ajay-dhangar&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
  
@@ -112,24 +112,27 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajay-dhangar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 ![working day](https://github-contribution-stats.vercel.app/api/?username=ajay-dhangar)
 ![contribute](https://github-contributor-stats.vercel.app/api?username=ajay-dhangar&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact) -->
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)-->
-![GitHub Streak](https://streak-stats.demolab.com?user=ajay-dhangar&theme=highcontrast)
-<a href="https://leetcode.com/ajaydhangar49/"><img width="48%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-    
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ajay-dhangar&theme=highcontrast) -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ajay-dhangar&theme=radical)
 
+<!-- ![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/ajay-dhangar?cardType=level&theme=radical)  -->
+
+<a href="https://leetcode.com/ajaydhangar49/"><img width="40%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-dhangar&theme=github_dark)
 
 
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-dhangar&theme=merko)](https://github.com/ajay-dhangar)
 
-<div align="center">
+<!-- <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/ajay-dhangar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
       <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/ajay-dhangar?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
       <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/ajay-dhangar?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
     </picture>
-</div>
+</div> -->
 
 <!--
 
