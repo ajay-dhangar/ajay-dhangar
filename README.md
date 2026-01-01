@@ -85,17 +85,17 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-## My Projects
+<!-- ## My Projects -->
 
-<p align="left">
-<a href="https://github.com/ai-buddies/ai-buddies.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-buddies&repo=ai-buddies.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="AIBuddies"></a>
+<!-- <p align="left"> -->
+<!-- <a href="https://github.com/ai-buddies/ai-buddies.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ai-buddies&repo=ai-buddies.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="AIBuddies"></a>
 <a href="https://github.com/CodeHarborHub"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeHarborHub&repo=codeharborhub.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="CodeHarborHub"></a>
 <a href="https://github.com/Ajay-Dhangar/Ajay-Dhangar.github.io"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=Ajay-Dhangar.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a> 
- <a href="https://github.com/ajay-dhangar/algo"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajay-dhangar&repo=algo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a>
+ <a href="https://github.com/ajay-dhangar/algo"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajay-dhangar&repo=algo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a> -->
 <!--  <a href="https://github.com/Ajay-Dhangar/gym.com"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajay-Dhangar&repo=gym.com&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&º" alt="Ajay Dhangar"></a> -->
-</p>
+<!-- </p> -->
 
-<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+<!-- <img width="100%" loading="lazy" src="rainbow-superthin.webp" /> -->
 
 ## Badges
 
@@ -115,11 +115,10 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&langs_count=20&theme=transparent&layout=compact) -->
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&show_icons=true&theme=dark)-->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ajay-dhangar&theme=highcontrast) -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ajay-dhangar&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ajay-dhangar&theme=radical) <a href="https://leetcode.com/ajaydhangar49/"><img width="48%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+
 
 <!-- ![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/ajay-dhangar?cardType=level&theme=radical)  -->
-
-<a href="https://leetcode.com/ajaydhangar49/"><img width="40%" src="https://leetcode.card.workers.dev/ajaydhangar49?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-dhangar&theme=github_dark)
 
