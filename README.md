@@ -15,7 +15,11 @@
 
 <a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border" align="right" width="250" alt="Leetcode Badges"/></a>
 
+<br />
+
 I am a **Full-Stack Software Engineer** and community builder dedicated to engineering scalable web ecosystems and making computer science education universally accessible. As an open-source advocate, I design developer tools, maintain educational architectures, and build automated solutions.
+
+<br />
 
 *   💡 **Leadership**: Founder & CEO of **CodeHarborHub**, a global open-source platform empowering learners and technical writers.
 *   🔭 **Active Engineering**: Architecting robust algorithms, interactive learning tools, and frontend documentation layers.
@@ -27,7 +31,7 @@ I am a **Full-Stack Software Engineer** and community builder dedicated to engin
 
 <h2 align="center"> Core Ecosystems </h2>
 
-<br /
+<br />
 
 <table width="100%">
   <tr>
