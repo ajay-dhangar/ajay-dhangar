@@ -3,13 +3,6 @@
     <img src="https://github.com/user-attachments/assets/8177f7ec-5d77-4be9-a8a7-e003465a6c14" alt="Ajay's Holopin Badges" />
   </a>
   <br />
-  <p align="center">
-    <a href="#-about-me">About Me</a> •
-    <a href="#-core-ecosystems">Core Ecosystems</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-contributions--metrics">Metrics & Stats</a> •
-    <a href="#-connect-with-me">Connect</a>
-  </p>
 </div>
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
@@ -20,7 +13,7 @@
 
 ## About Me <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" align="right" alt="Profile Views" />
 
-<a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border" align="right" width="260" alt="Leetcode Badges"/></a>
+<a href="https://leetcode.com/u/ajaydhangar49/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=ajaydhangar49&theme=onedark&border=border" align="right" width="250" alt="Leetcode Badges"/></a>
 
 I am a **Full-Stack Software Engineer** and community builder dedicated to engineering scalable web ecosystems and making computer science education universally accessible. As an open-source advocate, I design developer tools, maintain educational architectures, and build automated solutions.
 
