@@ -8,7 +8,7 @@
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=ॐ+सर्वे+भवन्तु+सुखिनः।+सर्वे+सन्तु+निरामयाः।;May+all+be+happy,+may+all+be+free+from+illness.;सभी+सुखी+हों,+सभी+रोगमुक्त+रहें।" alt="Sanskrit Sloka" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F402&width=800&lines=%E0%A5%90+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87+%E0%A4%AD%E0%A4%B5%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81+%E0%A4%B8%E0%A5%81%E0%A4%96%E0%A4%BF%E0%A4%A8%E0%A4%83%E0%A5%A4+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87+%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81+%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%83%E0%A5%A4;May+all+be+happy%2C+may+all+be+free+from+illness.;%E0%A4%B8%E0%A4%AD%E0%A5%80+%E0%A4%B8%E0%A5%81%E0%A4%96%E0%A5%80+%E0%A4%B9%E0%A5%8B%E0%A4%82%2C+%E0%A4%B8%E0%A4%AD%E0%A5%80+%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4+%E0%A4%B0%E0%A4%B9%E0%A5%87%E0%A4%82%E0%A5%A4" alt="Sanskrit Sloka" />
 </div>
 
 ## About Me <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" align="right" alt="Profile Views" />
